@@ -29,5 +29,5 @@ Watch on YouTube
 
 How to Run the Project
 Clone the repository:
-git clone https://github.com/yourgithubusername/portfolio-website.git
+git clone https://github.com/prashish6/Protfolio_website.git
 open index.html on your browser
